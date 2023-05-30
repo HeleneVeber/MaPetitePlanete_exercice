@@ -4,6 +4,7 @@
 ### Etape 1: Schématisation de la consigne
 
 Rendu visuel de la consigne sur [figma](https://www.figma.com/file/PDfi96hp9bU5Ba8UbUfYIa/Ma-petite-plan%C3%A8te?type=design&node-id=0-1&t=0Ye37E9QzCtzHxKU-0) - penser les widgets et les screens :
+[capture d'écran](../images/ExerciceMaPetitePlanète.png)
 
 
 ### Etape 2: Prise en main de Flutter et création du button
